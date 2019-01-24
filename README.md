@@ -13,7 +13,8 @@ mvn -v
 ```
 <Dir-of-src-code>$mvn compile
 ```
-#### To test
+#### Test it and then create the jar file.
 ```
 mvn test
+mvn package
 ```
