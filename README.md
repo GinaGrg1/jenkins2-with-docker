@@ -13,3 +13,7 @@ mvn -v
 ```
 <Dir-of-src-code>$mvn compile
 ```
+#### To test
+```
+mvn test
+```
