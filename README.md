@@ -4,3 +4,8 @@
 ```
 docker run -p 8090:8080 -p 50000:50000 jenkins:2.7.1
 ```
+### Install maven
+```
+brew install maven
+mvn -v
+```
